@@ -151,3 +151,4 @@ console.log (media)
 
 const nome = "Alura";
 // ["A", "l", "u", "r", "a"]
+
